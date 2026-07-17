@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="./public/Image.png" alt="野牛音乐图标" width="128" height="128" />
+  <img src="./pic/icon.png" alt="野牛音乐图标" width="128" height="128" />
   <h1>野牛音乐</h1>
   <p>一款以歌词和沉浸体验为核心的桌面音乐播放器。</p>
 

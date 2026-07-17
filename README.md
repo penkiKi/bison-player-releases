@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="./public/Image.png" alt="Bison Player icon" width="128" height="128" />
+  <img src="./pic/icon.png" alt="Bison Player icon" width="128" height="128" />
   <h1>Bison Player</h1>
   <p>A desktop music player built around synchronized lyrics and an immersive listening experience.</p>
 
